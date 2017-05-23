@@ -1,5 +1,6 @@
 package com.kimseak.spring;
 
+
 import org.springframework.stereotype.Component;
 
 @Component
